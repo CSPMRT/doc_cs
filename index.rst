@@ -3,6 +3,7 @@
 ==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: 目录:
 
+   密码学/GnuPG生成ECC密钥
